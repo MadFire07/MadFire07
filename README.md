@@ -1,6 +1,6 @@
 # Welcome to my Github profile
 
-My name is Nom and I'm a software developer. I code mainly in Python, C++, C#, SQL and Java.
+My name is Maxime and I'm a software developer. I code mainly in Python, C++, C#, SQL, JavaScript and Go.
 
 On this profile, you will find my projects and my contributions to open source projects. I try to keep my projects up to date and to document them properly.
 
